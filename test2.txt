@@ -2,4 +2,4 @@ write in master
 
 git pull
 
-our pride
+our pride (edited)
